@@ -1,0 +1,7 @@
+Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd > Vísar í möppuna
+	cd ~ > Vísar ínn í drifið þitt
+	ls > sýnir skránna
+	pwd > prentar fullan aðgang í hverju ertu núna
+	mkdir > býr til skrá
