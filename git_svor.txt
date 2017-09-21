@@ -19,3 +19,5 @@ Git spurningar og svör
 	c) git diff commit1 commit2 > sýnir muninn á þeim skrá
 
 	4. 	Hvað er útgáfustýring (e.version control)? >  geymir allar útgáfur af verkefni og leyfir manni að fara á milli þeirra
+
+	5.	Hverjir eru helstu kostir við að nota GIT? > Að vinna með fólki á 2 tölvum
