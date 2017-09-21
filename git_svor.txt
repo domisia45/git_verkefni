@@ -12,3 +12,10 @@ Git spurningar og svör
 	git status > sýnir stöðu vinnustaðsins
 	git diff > sýnir stöðu á milli vinnustaðsins og skuldbindingum
 	git checkout > skipta yfir útibú eða endurheimtir skrár
+
+	3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff > sýnir breytingar á skuldbindingum og vinnusvæði
+	b) git diff  --staged > sýnir breytinga á skyndiminni/indexinu
+	c) git diff commit1 commit2 > sýnir muninn á þeim skrá
+
+	4. 	Hvað er útgáfustýring (e.version control)? >  geymir allar útgáfur af verkefni og leyfir manni að fara á milli þeirra
