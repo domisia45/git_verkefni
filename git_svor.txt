@@ -5,3 +5,10 @@ Git spurningar og svör
 	ls > sýnir skránna
 	pwd > prentar fullan aðgang í hverju ertu núna
 	mkdir > býr til skrá
+
+	2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone > Ef þú vilt fá afrit af núverandi Git geymslu
+	git log > sýnir upplýsinga um fyrri skuldbindingar
+	git status > sýnir stöðu vinnustaðsins
+	git diff > sýnir stöðu á milli vinnustaðsins og skuldbindingum
+	git checkout > skipta yfir útibú eða endurheimtir skrár
