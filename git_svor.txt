@@ -21,3 +21,5 @@ Git spurningar og svör
 	4. 	Hvað er útgáfustýring (e.version control)? >  geymir allar útgáfur af verkefni og leyfir manni að fara á milli þeirra
 
 	5.	Hverjir eru helstu kostir við að nota GIT? > Að vinna með fólki á 2 tölvum
+
+	6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? > Eins oft og það getur og það  hægir ekki á verkferli manns
